@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\dynamic">
+      <UniqueIdentifier>{9ed0ec19-7142-4d75-8fa0-7f66c8002b3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode321.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode68.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode140.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode212.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode77.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="topk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode17.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode93.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode51.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode18.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode22.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode29.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode43.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode50.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode60.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode66.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode69.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode65.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode169.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode168.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode171.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode172.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode231.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode326.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode342.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode202.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode204.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode233.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode258.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode279.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode263.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode264.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode313.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode338.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode268.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode187.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode319.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode191.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode136.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode137.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode190.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode260.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode24.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode26.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode27.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode28.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode36.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode38.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode58.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode67.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode70.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode83.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode88.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode100.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode101.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode102.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode104.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode111.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode107.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode110.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode119.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode112.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode121.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode53.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode122.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicProgramming.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode300.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode141.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode155.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode160.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode165.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode189.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode198.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode203.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode205.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode206.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode217.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode219.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode220.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode225.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode226.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode232.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode234.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode235.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode237.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode344.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode242.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode257.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode278.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode283.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode292.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode299.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode345.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode303.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode72EditDistance.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode322CoinChange.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode304RangeSumQuery2D.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode152MaximumProductSubarray.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode213HouseRobberII.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode115DistinctSubsequences.h">
+      <Filter>Header Files\dynamic</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode318MaximumProductofWordLengths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode120Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode334IncreasingTripletSubsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode324WiggleSortII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode96UniqueBinarySearchTrees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode95UniqueBinarySearchTreesII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode241DifferentWaystoAddParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode347TopKFrequentElements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode343IntegerBreak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode341FlattenNestedListIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode337HouseRobberIII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode332ReconstructItinerary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode331VerifyPreorderSerializationofaBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode367ValidPerfectSquare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode328OddEvenLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HUFFMAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode371sumoftwointegers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FenwickTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode306additivenumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode289gameoflife.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode284peekingiterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode274H-index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode275H-indexII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode74Searcha2DMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode240Searcha2DMatrixII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode230KthSmallestElementinaBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode238ProductofArrayExceptSelf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode116PopulatingNextRightPointersinEachNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode117PopulatingNextRightPointersinEachNodeII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="countersort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode236LowestCommonAncestorofaBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode229MajorityElementII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode228SummaryRanges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode227BasicCalculatorII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode224BasicCalculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode222CountCompleteTreeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode221MaximalSquare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="review.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode216CombinationSumIII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode215KthLargestElementinanArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode208ImplementTrie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode211AddandSearchWordDatastructuredesign.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode207CourseSchedule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode201BitwiseANDofNumbersRange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode199BinaryTreeRightSideView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode200NumberofIslands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode173BinarySearchTreeIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode179LargestNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode166FractiontoRecurringDecimal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode162findpeekelements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode153FindMinimuminRotatedSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode151ReverseWordsinaString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode150EvaluateReversePolishNotation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode144BinaryTreePreorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode148sortlist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode147.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode372superpow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode142LinkedListCycleII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode143reorderlist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode139wordbreak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode133clonegraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode134gasstation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode129SumRoottoLeafNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode131PalindromePartitioning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode113pathsumII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode127wordladder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode126WordLadderII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode130SurroundedRegions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode114FlattenBinaryTreetoLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode118.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode108ConvertSortedArraytoBinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode109ConvertSortedListtoBinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode103BinaryTreeZigzagLevelOrderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode98ValidateBinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode94BinaryTreeInorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode106ConstructBinaryTreefromInorderandPostorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode105ConstructBinaryTreefromPreorderandInorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode92ReverseLinkedListII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode86PartitionList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode91decodeways.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode80RemoveDuplicatesfromSortedArrayII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode62UniquePaths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode63uniquePathsII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode61RotateList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode54SpiralMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode59SpiralMatrixII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode48RotateImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode73setmatrixzeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode90subsetsII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode89Graycode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode82RemoveDuplicatesfromSortedListII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode81SearchinRotatedSortedArrayII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode78subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode79wordsearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode64MinimumPathsum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode33searchinroatedsortedarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode46permutattions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode47permutationsII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode75sortcolor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode71simplifypath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode55jumpgame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode49GroupAnagrams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode40combinationsumII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode39combinationSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode34searchforArange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode35searchInsertPosition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode374GuessNumberHigherorLower.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode316removeduplicateletters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode295FindMedianfromDataStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode315countofSmalllerNumbersAfterself.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode287findtheduplicatenumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode377combinationSumIV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode378KthSmallestElementinaSortedMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Josephus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode373findKpairswithSmallestSums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="print-permutation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="print_subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

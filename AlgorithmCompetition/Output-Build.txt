@@ -1,0 +1,19 @@
+﻿1>------ Build started: Project: AlgorithmCompetition, Configuration: Debug Win32 ------
+1>  main.cpp
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\leetcode3.h(11): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(155): warning C4018: '>=' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(157): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(158): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(177): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(178): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(182): warning C4244: '=' : conversion from 'LL' to 'int', possible loss of data
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(203): warning C4244: 'argument' : conversion from 'LL' to 'unsigned int', possible loss of data
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(204): warning C4244: 'argument' : conversion from 'LL' to 'unsigned int', possible loss of data
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\5.h(232): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\leetcode68.h(17): warning C4018: '>' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\leetcode77.h(11): warning C4018: '>' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\leetcode77.h(14): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\topk.h(20): warning C4018: '<' : signed/unsigned mismatch
+1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\topk.h(37): warning C4018: '<' : signed/unsigned mismatch
+1>  AlgorithmCompetition.vcxproj -> I:\VS 2013\Projects\AlgorithmCompetition\Debug\AlgorithmCompetition.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

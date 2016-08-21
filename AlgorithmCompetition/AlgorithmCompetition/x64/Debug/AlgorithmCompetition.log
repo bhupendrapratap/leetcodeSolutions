@@ -1,0 +1,11 @@
+﻿Build started 5/29/2016 1:20:24 PM.
+     1>Project "I:\VS 2013\Projects\AlgorithmCompetition\AlgorithmCompetition\AlgorithmCompetition.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         I:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>i:\vs 2013\projects\algorithmcompetition\algorithmcompetition\4.h(5): error C2148: total size of array must not exceed 0x7fffffff bytes
+     1>Done Building Project "I:\VS 2013\Projects\AlgorithmCompetition\AlgorithmCompetition\AlgorithmCompetition.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.18
